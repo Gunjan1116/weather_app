@@ -1,4 +1,4 @@
-let baseUrl=`http://localhost:5000`;
+let baseUrl=`https://silly-fox-tank-top.cyclic.app/`;
 
 let form_login=document.querySelector(".all_detail_login form");
 

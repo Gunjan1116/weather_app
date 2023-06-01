@@ -1,5 +1,5 @@
 let token=sessionStorage.getItem('token');
-const baseUrl=`http://localhost:5000`
+const baseUrl=`https://silly-fox-tank-top.cyclic.app/`
 let cont =document.querySelector(".all_data");
 if(token){
     let detail_search=document.querySelector(".search_city form");
