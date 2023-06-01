@@ -1,6 +1,6 @@
 # weather_app
 ## Deployed Links
-- [backend_link](https://eloquent-sopapillas-693db4.netlify.app/)
+- [backend_link](https://silly-fox-tank-top.cyclic.app/)
 - [frontend_link](https://eloquent-sopapillas-693db4.netlify.app/)
 ## How to Use
 - First User Need to **Register** by entering name,email,city name and password.
