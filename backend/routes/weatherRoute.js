@@ -1,4 +1,4 @@
-//https://api.openweathermap.org/data/2.5/weather?q=jamshedpur&appid=39b7afaf2654c1636803beceaf06a4d6
+
 //273.15
 const fetch=require("isomorphic-fetch");
 require("dotenv").config();
