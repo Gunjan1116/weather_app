@@ -40,5 +40,5 @@
     - response:{"msg":"Data is saved to history"}
 backend_link/weather/history
     - method:"GET"
-    - provide token in headers
+    - provide token in headers 
     - response:{"msg":"previous data","data":reqUser}
